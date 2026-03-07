@@ -1,0 +1,5 @@
+huggingface_hub
+requests
+python-dotenv
+pandas
+numpy

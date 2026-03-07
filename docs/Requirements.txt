@@ -1,8 +1,0 @@
-transformers>=4.41.0
-accelerate
-bitsandbytes>=0.43.1
-accelerate>=0.31.0
-pandas
-openpyxl
-jsonschema
-kagglehub
